@@ -1,0 +1,5 @@
+    messages = [
+        {"role": "user",
+         "content": "Classify the input text into one of these topic categories. Print only the topic category nothing else. Autos & Vehicles, Comedy, Education, Entertainment, Film & Animation, Gaming, Howto & Style, Music, News & Politics, Nonprofits & Activism, People & Blogs, Pets & Animals, Science & Technology, Sports, Travel & Events." + "Input sentence:" + str(
+             input_text)},
+    ]
